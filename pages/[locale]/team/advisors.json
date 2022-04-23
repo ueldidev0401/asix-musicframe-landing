@@ -1,0 +1,50 @@
+[
+  {
+    "name": "deadmau5",
+    "imageUrl": "/img/deadmau5.png"
+  },
+  {
+    "name": "RAC",
+    "imageUrl": "/img/RAC.png"
+  },
+  {
+    "name": "3LAU",
+    "imageUrl": "/img/3lau.png"
+  },
+  {
+    "name": "Adam Goldberg",
+    "imageUrl": "/img/Adam-Goldberg.png"
+  },
+  {
+    "name": "Bing Gordon",
+    "imageUrl": "/img/bing-gordon.png"
+  },
+  {
+    "name": "Tom Schmidt",
+    "imageUrl": "/img/tom-schmidt.png"
+  },
+  {
+    "name": "Greg Hazel",
+    "imageUrl": "/img/greg-hazel.png"
+  },
+  {
+    "name": "Ash Pournouri",
+    "imageUrl": "/img/ash-pournouri.png"
+  },
+  {
+    "name": "Justin Kan",
+    "imageUrl": "/img/justin-kan.png"
+  },
+  {
+    "name": "Robb McDaniels",
+    "imageUrl": "/img/robb-mcdaniels.png"
+  },
+  {
+    "name": "Jesse Grushack",
+    "imageUrl": "/img/Jesse-Grushack.png"
+  },
+  {
+    "name": "Cooper Turley",
+    "imageUrl": "/img/Cooper-Turley.png"
+  }
+]
