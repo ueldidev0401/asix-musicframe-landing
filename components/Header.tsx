@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 
 import { useTranslation } from 'next-i18next'
 
+import LocalePicker from 'components/LocalePicker'
 import NavPopup from 'components/NavPopup'
 import StyledLink from 'components/StyledLink'
 import IconClose from 'public/img/iconClose.svg'
@@ -15,7 +16,6 @@ import IconNavigationStaking from 'public/img/iconNavigationStaking.svg'
 import IconNavigationTeam from 'public/img/iconNavigationTeam.svg'
 import IconNavigationTokenomics from 'public/img/iconNavigationTokenomics.svg'
 import IconNavigationWhitepaper from 'public/img/iconNavigationWhitepaper.svg'
-import LocalePicker from 'components/LocalePicker'
 
 const renderIcon = (Icon: any) => () =>
   <Icon height={21} width={21} className='icon' />
