@@ -15,7 +15,8 @@
           "internal",
           "parent",
           "sibling",
-          "index"
+          "index",
+          "object"
         ],
         "newlines-between": "always",
         "pathGroups": [

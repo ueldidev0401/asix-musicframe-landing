@@ -8,7 +8,7 @@ import NavPopup, { NavPopupProps } from 'components/NavPopup'
 const renderFlag = (src: string) => () =>
   (
     <div className='icon'>
-      <img src={src} />
+      <img src={src} alt=""/>
     </div>
   )
 

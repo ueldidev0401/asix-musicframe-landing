@@ -33,7 +33,7 @@ const App = appWithTranslation(({ Component, pageProps }) => {
     // (Hopefully we can migrate away from this eventually)
     router.push('en/home');
     init()
-  }, [router.pathname])
+  }, [router, router.pathname])
 
   const transitions = useTransition(Component, {
     from: { opacity: 0 },
@@ -59,9 +59,9 @@ const App = appWithTranslation(({ Component, pageProps }) => {
         ))}
       </PageLayout>
 
-      <script src='/js/vendor/jquery-3.3.1.min.js'></script>
-      <script src='/js/vendor/MorphSVGPlugin.min.js'></script>
-      <script src='/js/vendor/TweenMax.min.js'></script>
+      <Script src='/js/vendor/jquery-3.3.1.min.js'></Script>
+      <Script src='/js/vendor/MorphSVGPlugin.min.js'></Script>
+      <Script src='/js/vendor/TweenMax.min.js'></Script>
       <Script src='/js/vendor/modernizr-custom.min.js'></Script>
     </>
   )
