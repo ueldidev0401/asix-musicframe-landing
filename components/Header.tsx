@@ -17,10 +17,8 @@ import IconNavigationTeam from 'public/img/iconNavigationTeam.svg'
 import IconNavigationTokenomics from 'public/img/iconNavigationTokenomics.svg'
 import IconNavigationWhitepaper from 'public/img/iconNavigationWhitepaper.svg'
 
-
 const renderIcon = (Icon: any) => () =>
   <Icon height={21} width={21} className='icon' />
-  
 
 type HeaderProps = {
   // The clone is the sticky version of the header
