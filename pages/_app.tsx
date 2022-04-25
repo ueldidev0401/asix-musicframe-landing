@@ -16,6 +16,7 @@ const tagManagerArgs = {
   gtmId: 'GTM-TTM6CHS',
   dataLayer: {
     js: new Date(),
+    
     config: 'UA-120325397-4'
   }
 }
