@@ -25,7 +25,7 @@ const Token = () => {
             <div className='copy'>
               <p>
                 <Trans i18nKey='token-introduction'>
-                  Introducing <em>$AUDIO</em>, The Audius Platform Token
+                  Introducing <em>$AUDIO</em>, The Asix+ Platform Token
                 </Trans>
               </p>
             </div>

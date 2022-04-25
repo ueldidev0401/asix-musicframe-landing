@@ -198,7 +198,7 @@ const Api = () => {
       <section id='newsletter'>
         <div className='container'>
           <div className='content'>
-            <img src='../img/apiLogo@2x.png' alt='Audius API logo' />
+            <img src='../img/Asix/apiLogo@2x.png' alt='Asix+ API logo' />
             <div className='header'>
               <h3>{t('api-conclusion')}</h3>
             </div>

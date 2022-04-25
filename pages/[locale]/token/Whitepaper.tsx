@@ -28,7 +28,7 @@ const Whitepaper = () => {
       <section id='distribution' className='bios'>
         <div className='container'>
           <div className='content'>
-            <img src='../img/circulatingSupply@2x.png' alt='distribution' />
+            <img src='../img/Asix/circulatingSupply@2x.png' alt='distribution' />
           </div>
         </div>
       </section>

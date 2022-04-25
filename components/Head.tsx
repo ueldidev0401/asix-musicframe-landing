@@ -13,7 +13,7 @@ const Head = ({
   path,
   title
 }: HeadProps) => {
-  const qualifiedTitle = title ? `${title} • Audius` : 'Audius'
+  const qualifiedTitle = title ? `${title} • Asix+` : 'Asix+'
 
   return (
     <NextHead>
