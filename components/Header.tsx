@@ -15,6 +15,7 @@ import IconNavigationRunningNode from 'public/img/iconNavigationRunningNode.svg'
 import IconNavigationStaking from 'public/img/iconNavigationStaking.svg'
 import IconNavigationTeam from 'public/img/iconNavigationTeam.svg'
 import IconNavigationTokenomics from 'public/img/iconNavigationTokenomics.svg'
+
 import IconNavigationWhitepaper from 'public/img/iconNavigationWhitepaper.svg'
 
 const renderIcon = (Icon: any) => () =>
