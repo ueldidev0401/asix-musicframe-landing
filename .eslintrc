@@ -2,32 +2,6 @@
   "extends": "next",
   "rules": {
     "@next/next/no-img-element": "off",
-    "react/display-name": "off",
-    "import/order": [
-      "error",
-      {
-        "alphabetize": {
-          "order": "asc"
-        },
-        "groups": [
-          "builtin",
-          "external",
-          "internal",
-          "parent",
-          "sibling",
-          "index",
-          "object"
-        ],
-        "newlines-between": "always",
-        "pathGroups": [
-          {
-            "pattern": "react",
-            "group": "builtin",
-            "position": "before"
-          }
-        ],
-        "pathGroupsExcludedImportTypes": ["builtin"]
-      }
-    ]
+    "react/display-name": "off"
   }
 }
